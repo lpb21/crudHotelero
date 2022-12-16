@@ -20,12 +20,8 @@ Las siguientes instrucciones te orientaran y explicaran el desarrollo paso a pas
 ```
 - En primer paso se procede a dar click en el boton de 'start' del rpograma xampp en la seccion que dice 'Apache' y 'MySQL'
 - Se descarga el archivo .zip y se descomprime en la carpeta 'C:\xampp\htdocs\'
-<<<<<<< HEAD
-- Se procede a ejecutar las consultas del archivo ConsultasHotel.sql hasta la linea nro 13 las cuales crearan la base de datos que 
-=======
 - Se procede a ejecutar las consultas del archivo Consultas.sql hasta la linea nro 13 las cuales crearan la base de datos que 
->>>>>>> 79b652834c9c3ba231fd2ea5eacfb7ec744cce1a
-    usara el desarrollo
+ usara el desarrollo
 - Se teclea en la barra 'http://localhost/HotelesDECAMERON/index.php' y alli tendremos ya listo el desarrollo corriendo en nuestra 
     maquina local
 ```
